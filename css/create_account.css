@@ -1,0 +1,90 @@
+.login {
+  display: flex;
+  justify-content: center;
+  background-image: url("../images/freepik--background-complete--inject-2@3x.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.form__content {
+  display: flex;
+  justify-content: center;
+  width: 776px;
+  height: 1024px;
+  background: rgba(10, 42, 52, 1);
+  color: rgba(241, 241, 241, 1);
+}
+
+.form__container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 160px auto 0;
+  width: 418px;
+  height: 497px;
+}
+
+.form__wrap-titles {
+  width: 347px;
+  margin: 0;
+}
+
+.form__title {
+  width: 261px;
+  height: 38px;
+  margin: 0;
+  font-family: "Lato" Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 38.4px;
+  text-align: left;
+}
+
+.form__sub-title {
+  margin: 0;
+  text-align: left;
+}
+
+.form__info {
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  margin: 0;
+  padding: 90px 0 0;
+}
+
+.form__input {
+  width: 418px;
+  height: 52px;
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.form__input::placeholder {
+  font-family: "Inter" Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+  color: rgba(10, 42, 52, 1);
+}
+
+.form__button-cadastrar {
+  width: 418px;
+  margin: 60px 0 0;
+  padding: 14px 16px 14px 16px;
+  border-radius: 8px;
+  border: none;
+  background: rgba(16, 165, 31, 1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 19.36px;
+  color: rgba(241, 241, 241, 1);
+}

@@ -1,0 +1,129 @@
+.login {
+  display: flex;
+  justify-content: center;
+  background-image: url("../images/freepik--background-complete--inject-2@3x.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.form__content-login {
+  display: flex;
+  justify-content: center;
+  width: 776px;
+  height: 1024px;
+  background: rgba(10, 42, 52, 1);
+  color: rgba(241, 241, 241, 1);
+}
+
+.form__container-login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 260px auto 0;
+  width: 418px;
+  height: 497px;
+}
+
+.form__info-login {
+  margin: 72px auto 0;
+}
+
+.form__wrap-titles-login {
+  width: 347px;
+  margin: 0 auto;
+}
+
+.form__title-login {
+  width: 261px;
+  height: 38px;
+  margin: 0 auto;
+  font-family: "Lato" Arial, sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 38.4px;
+  text-align: center;
+}
+
+.form__sub-title-login {
+  margin: 8px auto 0;
+  text-align: center;
+}
+
+.form__email-login {
+  width: 418px;
+  height: 52px;
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  gap: 8px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.form__email-login::placeholder {
+  font-family: "Inter" Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+  color: rgba(10, 42, 52, 1);
+}
+
+.form__pass-login {
+  width: 418px;
+  height: 52px;
+  margin: 32px 0 0;
+  padding: 0;
+  border: none;
+  gap: 8px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.form__pass-login::placeholder {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: left;
+  color: rgba(10, 42, 52, 1);
+}
+
+.form__button-enter-login {
+  width: 418px;
+  margin: 40px 0 0;
+  padding: 14px 16px 14px 16px;
+  border-radius: 8px;
+  border: none;
+  background: rgba(16, 165, 31, 1);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 19.36px;
+  color: rgba(241, 241, 241, 1);
+}
+
+.form__forgot-pass-login {
+  display: flex;
+  justify-content: end;
+  font-size: 14px;
+  line-height: 13.16px;
+  text-align: left;
+  font-family: "Lato" Arial, sans-serif;
+  font-weight: 500;
+  margin: 16px 0 0 0;
+}
+
+.form__create-account-Button-login {
+  display: flex;
+  justify-content: center;
+  width: 255px;
+  height: 24px;
+  margin: 72px auto 0;
+}
+
+.form__create-account-Button-login:a:visited {
+  color: #fff;
+}

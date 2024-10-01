@@ -1,0 +1,32 @@
+body {
+  max-width: 1440px;
+  /*  height: 1024px; */
+  background: linear-gradient(
+    180deg,
+    #0a2a34 0%,
+    rgba(255, 255, 255, 0.2) 100%
+  );
+  background-repeat: repeat-x;
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Inter", sans-serif, Arial, Helvetica, sans-serif,
+    "Times New Roman", Times, serif;
+}
+
+/* a:visited {
+  color: rgba(16, 165, 31, 1);
+}
+ */
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #fff;
+}
+
+ul {
+  text-decoration: none;
+  padding-left: 0;
+}
