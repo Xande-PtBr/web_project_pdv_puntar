@@ -5,12 +5,13 @@
 > **PDV** Visão Geral do Projeto
 > O sistema PDV permite ao usuário visualizar produtos por categoria, realizar buscas, adicionar itens a uma lista de vendas e cadastrar novos produtos. É uma solução leve e prática para pequenos negócios que precisam de um sistema simples para gerenciar seu catálogo e realizar vendas de forma eficiente.
 
-Função
-**Navegação por Categorias**
-**Busca de Produtos**
-**Exposição de Produtos**
-**Carrinho de compras:**
-**Cadastro de Produtos**
+> Função
+
+- **Navegação por Categorias**
+- **Busca de Produtos**
+- **Exposição de Produtos**
+- **Carrinho de compras:**
+- **Cadastro de Produtos**
 
 ## Funcionalidades
 
